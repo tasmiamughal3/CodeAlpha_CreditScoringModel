@@ -94,7 +94,7 @@ CodeAlpha_CreditScoringModel/
 1. Clone the repository
 
 
-git clone https://github.com/yourusername/CodeAlpha_CreditScoringModel.git
+git clone https://github.com/tasmiamughal3/CodeAlpha_CreditScoringModel.git
 
 
 2. Install dependencies
